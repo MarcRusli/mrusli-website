@@ -1,7 +1,6 @@
 {
   "name": "mrusli-website",
   "private": true,
-  "homepage": "https://marcrusli.github.io/mrusli-website",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
